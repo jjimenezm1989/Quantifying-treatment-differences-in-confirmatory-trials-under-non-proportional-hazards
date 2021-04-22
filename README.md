@@ -1,6 +1,11 @@
 # Quantifying treatment differences in confirmatory trials under non-proportional hazards
 
-R code corresponding to the article "Quantifying treatment differences in confirmatory trials under non-proportional hazards" that is currently under review at the Journal of Applied Statistics.
+
+R code corresponding to the article:
+
+Jiménez, J. L. (2020). Quantifying treatment differences in confirmatory trials under non-proportional hazards. _Journal of Applied Statistics_, 1-19.
+
+Here is the ArXiv pre-print:
 
 https://arxiv.org/abs/1908.10502
 
